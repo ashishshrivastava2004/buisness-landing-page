@@ -1,0 +1,6 @@
+{
+  "name": "Anon & Atelier | FW26 Drop 01",
+  "description": "Cryptic digital storefront and hype infrastructure for luxury streetwear brand Anon & Atelier. FW26 Drop 01 archive access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
